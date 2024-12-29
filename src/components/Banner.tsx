@@ -1,10 +1,7 @@
 import React from 'react';
 import { Box, Typography } from '@mui/material';
 
-interface FeatureProps {
-  icon: React.ReactNode;
-  title: string;
-}
+
 
 const Banner = () => {
   return (

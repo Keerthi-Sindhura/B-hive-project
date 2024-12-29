@@ -6,9 +6,8 @@ import {
   Typography,
   Chip,
   Box,
-  Stack,
+
 } from "@mui/material";
-import { AccessTime, LocationOn } from "@mui/icons-material";
 import type { Space } from "../types";
 
 interface SpaceCardProps {
